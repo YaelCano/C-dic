@@ -1,0 +1,17 @@
+C:\Users\Blacky27p\Desktop\C#dic\bin\Debug\net7.0\C#dic.exe
+C:\Users\Blacky27p\Desktop\C#dic\bin\Debug\net7.0\C#dic.deps.json
+C:\Users\Blacky27p\Desktop\C#dic\bin\Debug\net7.0\C#dic.runtimeconfig.json
+C:\Users\Blacky27p\Desktop\C#dic\bin\Debug\net7.0\C#dic.dll
+C:\Users\Blacky27p\Desktop\C#dic\bin\Debug\net7.0\C#dic.pdb
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.AssemblyInfoInputs.cache
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.AssemblyInfo.cs
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.csproj.CoreCompileInputs.cache
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.dll
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\refint\C#dic.dll
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.pdb
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.genruntimeconfig.cache
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\ref\C#dic.dll
+C:\Users\Blacky27p\Desktop\C#dic\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.csproj.AssemblyReference.cache
+C:\Users\Blacky27p\Desktop\C#dic\obj\Debug\net7.0\C#dic.csproj.CopyComplete
